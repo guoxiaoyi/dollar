@@ -173,3 +173,4 @@ cython_debug/
 klines/*
 data/*
 config.ini
+output/*

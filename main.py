@@ -73,7 +73,7 @@ def main():
 
     # 目标文件夹
     data_folder = "data"
-    output_file = f"{date_str}.md"
+    output_file = f"output/{date_str}.md"
 
     # 获取所有.md文件
     md_files = [f for f in os.listdir(data_folder) if f.endswith(".md")]
