@@ -1,0 +1,1 @@
+print("analyzer package initialized")
